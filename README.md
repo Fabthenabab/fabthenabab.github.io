@@ -7,23 +7,20 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 
 ### Porfolio
 
-- ![EEG_Band_Discovery](/img/kayak-vector-logo.png)
-  [Projet Kayak](https://github.com/Fabthenabab/fastapi_model)
+  [![Projet Kayak](/img/kayak-vector-logo.png)](https://github.com/Fabthenabab/kayak)
   Data Collection & Management Project
   Construction et alimentation d'une infrastructure de gestion de données
   Scraping (Scrapy), API, Datavisualization (GraphObjects)
 
-<div id="bloc1" name="tinder">
-- Projet Tinder
+  [![Projet Tinder](/img/Tinder-Symbole.png)](https://github.com/Fabthenabab/tinder)
   Exploratory Data Analysis Project
   Analyse exploratoire, descriptive et inférentielle de données
-</div>
-<div id="bloc1" name="steam">
-- Projet Steam
+
+  [![Projet Steam](/img/Steam_2016_logo_black.png)](https://github.com/Fabthenabab/steam)
   Exploratory Data Analysis Project
   Analyse exploratoire, descriptive et inférentielle de données
   Spark, Databricks
-</div>
+
 
 
 ### Compétences 
