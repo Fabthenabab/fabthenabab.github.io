@@ -9,7 +9,7 @@ Compétences techniques principales
 - Langages : Python (Numpy, Pandas, Scikit-Learn, Tensorflow), Java, C, PHP, HTML, CSS, JavaScript
 - Structures de données : SQL, JSON, XML, Modélisation (Merise)
 - Big Data et Cloud Computing : AWS, GCS, GCP, Databricks, Spark
-- Machine Learning supervisé et non supervisé: Feature engineering, Normalisation, Techniques ensemblistes (AdaBoost, XGBoost), segmentation, PCA
+- Machine Learning supervisé et non supervisé: Feature engineering, Normalisation, Techniques ensemblistes, segmentation, PCA
 - Deep Learning : NLP, computer vision (CNN, GAN)
 - Déploiement : MLFlow, FastAPI, Streamlit
   
