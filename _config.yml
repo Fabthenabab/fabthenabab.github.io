@@ -5,30 +5,44 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 user: true
 
-# About Section
-# about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
-about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+title: Your awesome title
+email: your-email@domain.com
+description: > # this means to ignore newlines until "baseurl:"
+  Write an awesome description for your new site here. You can edit this
+  line in _config.yml. It will appear in your document head meta (for
+  Google search results) and in your feed.xml site description.
 
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images
+baseurl: "" # the subpath of your site, e.g. /blog
 
-# Projects Section
-# projects_title: Projects #(Use this to override about projects section title)
+url: "http://example.com" # the base hostname & protocol for your site
 
-# Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+twitter_username: jekyllrb
+github_username:  jekyll
 
-# Education Section
-# education_title: Education #(Use this to override about education section title)
+# Build settings
+markdown: kramdown
 
-# More Section
-# more_title: A Little More About Me #(Use this to override about more section title)
-more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+collections:
+  episodes:
+    output: true
+  seasons:
+    output: true
+  characters:
+    output: true
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+defaults:
+  - scope:
+      path: ""
+      type: "episodes"
+    values:
+      layout: "episode"
+  - scope:
+      path: ""
+      type: "characters"
+    values:
+      layout: "character"
+  - scope:
+      path: ""
+      type: "seasons"
+    values:
+      layout: "season"
