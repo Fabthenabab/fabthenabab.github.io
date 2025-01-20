@@ -1,5 +1,7 @@
 title: Fabien Messinger
-ogo: /img/Fabien_id.jpg
+logo: /img/Fabien_id.jpg
+description: > # this means to ignore newlines until "baseurl:"
+  Transformer la donnée en insight
 theme: jekyll-theme-minimal
 show_downloads: false
 
