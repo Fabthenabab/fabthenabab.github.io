@@ -7,7 +7,8 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 
 ### Porfolio
 
-- [Projet Kayak](https://github.com/Fabthenabab/fastapi_model)
+- ![EEG_Band_Discovery](/img/kayak-vector-logo.png)
+  [Projet Kayak](https://github.com/Fabthenabab/fastapi_model)
   Data Collection & Management Project
   Construction et alimentation d'une infrastructure de gestion de données
   Scraping (Scrapy), API, Datavisualization (GraphObjects)
