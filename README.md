@@ -6,12 +6,12 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 </div>
 
 ### Porfolio
-<div id="bloc1" name="kayak">
-- Projet Kayak
+
+- [Projet Kayak](https://github.com/Fabthenabab/fastapi_model)
   Data Collection & Management Project
   Construction et alimentation d'une infrastructure de gestion de données
   Scraping (Scrapy), API, Datavisualization (GraphObjects)
-</div>
+
 <div id="bloc1" name="tinder">
 - Projet Tinder
   Exploratory Data Analysis Project
