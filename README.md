@@ -25,15 +25,14 @@ Personnelles :
 
 Développeur Web Timco, Strasbourg /Web Freelance
 - Recueil des besoins clients
-- Développement de solutions e-commerce
 - Définition des spécifications techniques
+- Développement de solutions e-commerce
 
 Développeur Web/Java - ULP-Multimedia, Strasbourg
 - Modélisation, conception, développement d’interfaces utilisateurs pour un environnement numérique de travail, impliquant une approche orientée utilisateur.
 - Développement de classes métier
 
 Enseignement - Académie de Strasbourg
-- Analyse, mise en œuvre de projets éducatifs collaboratifs
 
 ### Formation
 
