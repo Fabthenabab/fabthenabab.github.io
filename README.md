@@ -14,6 +14,7 @@ Compétences techniques principales
 - Machine Learning Supervisé : Feature engineering, Normalisation, PCA
 - Machine Learning non supervisé : K-Means, DBSCAN
 - Deep Learning : NLP, computer vision (CNN, GAN)
+- Déploiement : MLFlow, FastAPI, Streamlit
   
 Personnelles :
 - Curiosité, rigueur, esprit analytique
