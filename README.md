@@ -6,13 +6,12 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 
 ### Compétences 
 Compétences techniques principales
-- Langages : Python (Numpy, Pandas, Scikit-Learn), Tensorflow, Java, C, PHP, HTML, CSS, JavaScript
-- Structures de données et formats : SQL, JSON, XML, Méthode Merise
+- Langages : Python (Numpy, Pandas, Scikit-Learn, Tensorflow), Java, C, PHP, HTML, CSS, JavaScript
+- Structures de données : SQL, JSON, XML, Modélisation (Merise)
 - Big Data et Cloud Computing : AWS, GCS, GCP, Databricks, Spark
-- Mathématiques : Algèbre linéaire, statistiques appliquées
 - Statistiques avancées : Réduction de dimension (PCA, LDA), techniques de Boosting (Adaboost, XGBoost)
 - Machine Learning Supervisé : Feature engineering, Normalisation, PCA
-- Machine Learning non supervisé : K-Means, DBSCAN
+- Machine Learning non supervisé : (K-Means, DBSCAN)
 - Deep Learning : NLP, computer vision (CNN, GAN)
 - Déploiement : MLFlow, FastAPI, Streamlit
   
