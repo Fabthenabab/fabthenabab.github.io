@@ -1,9 +1,10 @@
 # Data Scientist
 
 ### Objectif
-<div id="bloc1" name="objectif">
+
 Ancien développeur Web, je suis passionné par les sciences théoriques et le partage des connaissances. J’apprécie le travail en équipe et la résolution de problèmes complexes. Mon objectif est de mettre à profit mon besoin de comprendre les systèmes en expérimentant de nouveaux concepts et en générant des insights stratégiques.
-</div>
+
+---
 
 ### Porfolio
 
@@ -20,8 +21,8 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
   Exploratory Data Analysis Project
   Analyse exploratoire, descriptive et inférentielle de données
   Spark, Databricks
-
-
+  
+---
 
 ### Compétences 
 
@@ -34,12 +35,11 @@ Compétences techniques principales
 - Deep Learning : NLP, computer vision (CNN, GAN)
 - Déploiement : MLFlow, FastAPI, Streamlit
 
-
 Personnelles :
 - Curiosité, rigueur, esprit analytique
 - Travail en équipe, transmission de connaissances
 - Polyvalence, adaptabilité
-
+---
 
 ### Expérience Professionnelle
 
@@ -53,7 +53,7 @@ Développeur Web/Java - ULP-Multimedia, Strasbourg
 - Développement de classes métier
 
 Enseignement - Académie de Strasbourg
-
+---
 
 ### Formation
 
