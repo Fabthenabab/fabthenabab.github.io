@@ -10,8 +10,7 @@ Compétences techniques principales
 - Structures de données : SQL, JSON, XML, Modélisation (Merise)
 - Big Data et Cloud Computing : AWS, GCS, GCP, Databricks, Spark
 - Statistiques avancées : Réduction de dimension (PCA, LDA), techniques de Boosting (Adaboost, XGBoost)
-- Machine Learning Supervisé : Feature engineering, Normalisation, PCA
-- Machine Learning non supervisé : (K-Means, DBSCAN)
+- Machine Learning supervisé et non supervisé: Feature engineering, Normalisation, segmentation, PCA
 - Deep Learning : NLP, computer vision (CNN, GAN)
 - Déploiement : MLFlow, FastAPI, Streamlit
   
