@@ -8,7 +8,7 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 
 ### Porfolio
 <!-- [![Projet Kayak](/img/kayak-vector-logo.png)](https://github.com/Fabthenabab/kayak) -->
-- [Projet Kayak](https://github.com/Fabthenabab/kayak) : **Construction et alimentation d'une infrastructure de gestion de données**</br></br>
+- [Projet Kayak](https://github.com/Fabthenabab/kayak) : **Construction et alimentation d'une infrastructure de gestion de données**
   ![Projet Kayak](/img/kayak-vector-logo.png)</br>
   Data Collection & Management Project
   Scraping (Scrapy), API, Datavisualization (GraphObjects)
