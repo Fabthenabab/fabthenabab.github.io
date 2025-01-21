@@ -7,20 +7,20 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 ---
 
 ### Porfolio
-
-  [![Projet Kayak](/img/kayak-vector-logo.png)](https://github.com/Fabthenabab/kayak)
+<!-- [![Projet Kayak](/img/kayak-vector-logo.png)](https://github.com/Fabthenabab/kayak) -->
+- [Projet Kayak](https://github.com/Fabthenabab/kayak) : Construction et alimentation d'une infrastructure de gestion de données</br></br>
+  ![Projet Kayak](/img/kayak-vector-logo.png)</br>
   Data Collection & Management Project
-  Construction et alimentation d'une infrastructure de gestion de données
   Scraping (Scrapy), API, Datavisualization (GraphObjects)
 
-  [![Projet Tinder](/img/Tinder-Symbole.png)](https://github.com/Fabthenabab/tinder)
+- [Projet Tinder](https://github.com/Fabthenabab/tinder) : Analyse exploratoire, descriptive et inférentielle de données</br></br>
+  ![Projet Tinder](/img/Tinder-Symbole.png)</br>
   Exploratory Data Analysis Project
-  Analyse exploratoire, descriptive et inférentielle de données
-
-  [![Projet Steam](/img/Steam_2016_logo_black.png)](https://github.com/Fabthenabab/steam)
+  
+- [Projet Steam](https://github.com/Fabthenabab/steam) : Analyse exploratoire, descriptive et inférentielle de données</br></br>
+  ![Projet Tinder](/img/Steam_2016_logo_black.png)</br>
   Exploratory Data Analysis Project
-  Analyse exploratoire, descriptive et inférentielle de données
-  Spark, Databricks
+  Spark, Databricks, JSON
   
 ---
 
