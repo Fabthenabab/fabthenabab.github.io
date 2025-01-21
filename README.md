@@ -27,9 +27,10 @@ Ancien développeur Web, je suis passionné par les sciences théoriques et le p
 ### Compétences 
 
 Compétences techniques principales
+- System : Linux
 - Langages : Python (Numpy, Pandas, Scikit-Learn, Tensorflow), Java, C, PHP, HTML, CSS, JavaScript
 - Structures de données : SQL, JSON, XML, Modélisation (Merise)
-- Big Data et Cloud Computing : AWS, GCS, GCP, Databricks, Spark
+- Big Data et Cloud Computing : AWS, Google Cloud, Databricks, Spark
 - Extraction de données : Scraping (Scrapy)
 - Machine Learning supervisé et non supervisé: Feature engineering, Normalisation, Techniques ensemblistes, segmentation, PCA
 - Deep Learning : NLP, computer vision (CNN, GAN)
