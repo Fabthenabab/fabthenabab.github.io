@@ -1,9 +1,10 @@
 # Data Scientist
-<!--
+
 ### Objectif
 
 Ancien développeur Web, je suis passionné par les sciences théoriques et le partage des connaissances. J’apprécie le travail en équipe et la résolution de problèmes complexes. Mon objectif est de mettre à profit mon besoin de comprendre les systèmes en expérimentant de nouveaux concepts et en générant des insights stratégiques.
--->
+
+---
 
 ### Porfolio
 <!-- [![Projet Kayak](/img/kayak-vector-logo.png)](https://github.com/Fabthenabab/kayak) -->
